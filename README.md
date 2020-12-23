@@ -1,6 +1,4 @@
-### Hi there, I'm Cem - aka [Me on Linkedin][website] 👋
-
-[![Website](https://img.shields.io/website?label=Cem&style=for-the-badge&url=https://www.linkedin.com/in/cem-bideci/)](https://www.linkedin.com/in/cem-bideci/)
+### Hi there, I'm Cem - aka [Me on Linkedin][linkedin] 👋
 
 ## I'm a Full Stack Developer
 
@@ -50,12 +48,16 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="CemBdc's GitHub Stats" src="https://github-readme-stats.CemBdc.vercel.app/api?username=CemBdc&show_icons=true&hide_border=true" />
 
 </details>
+
+---
 
 [linkedin]: https://www.linkedin.com/in/cem-bideci
 [github]: https://github.com/CemBdc/CemBdc
