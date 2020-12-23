@@ -45,11 +45,11 @@
 [<img align="left" alt="Electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][github]
 
----
+<br />
+
+### My GitHub Stats:
 
 <img align="left" alt="CemBdc's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CemBdc&show_icons=true&hide_border=true" />
-
----
 
 [linkedin]: https://www.linkedin.com/in/cem-bideci
 [github]: https://github.com/CemBdc/CemBdc
