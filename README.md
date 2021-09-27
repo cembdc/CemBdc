@@ -7,9 +7,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to snowboard and play violin / guitar
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="cemBdc Spotify Playing" width="350" />](https://open.spotify.com/user/cemagrz?si=vKxbfO6AT76Ieqp9HI70lQ)
 
 ### Connect with me:
 
