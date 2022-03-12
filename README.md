@@ -1,10 +1,10 @@
 ### Hi there, I'm Cem - aka [Me on Linkedin][linkedin] 👋
 
-## I'm a Full Stack Developer
+## I'm a Software Developer
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to snowboard and play violin / guitar
 
 
