@@ -5,7 +5,7 @@
 - ⚡ Experienced software development specializing in distributed systems and proficient in a range of cutting-edge technologies.
 - ⚡ Skilled in leading cross-functional teams, fostering collaboration, and driving the delivery of scalable, resilient, and high-quality software solutions.
 - ⚡ Key skills:
-    ⚡ Golang
+    # Golang
     ⚡ NodeJS
     ⚡ AWS
     ⚡ Docker
