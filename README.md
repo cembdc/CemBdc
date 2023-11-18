@@ -12,11 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,grafana,jenkins,prometheus)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode,vue)](https://skillicons.dev)
 
-
-### Connect with me:
-
-[<img align="left" alt="cem-bideci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 ---
 
 ### My GitHub Stats:
