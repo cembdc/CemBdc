@@ -2,10 +2,21 @@
 
 ## I'm a Software Developer
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to snowboard and play violin / guitar
+- ⚡ Experienced software development specializing in distributed systems and proficient in a range of cutting-edge technologies.
+- ⚡ Skilled in leading cross-functional teams, fostering collaboration, and driving the delivery of scalable, resilient, and high-quality software solutions.
+- ⚡ Key skills:
+    ⚡ Golang
+    ⚡ NodeJS
+    ⚡ AWS
+    ⚡ Docker
+    ⚡ Kubernetes
+    ⚡ RabbitMQ
+    ⚡ PostgreSQL
+    ⚡ MongoDB
+    ⚡ Redis
+    ⚡ Couchbase
+    ⚡ InfluxDB
+    ⚡ MQTT/TCP/HTTP protocols.
 
 
 ### Connect with me:
@@ -37,11 +48,6 @@
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Vue" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][github]
-
-
-[<img align="left" alt="C#" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][github]
-[<img align="left" alt=".NET" width="45px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />][github]
-[<img align="left" alt="Electron" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />][github]
 
 
 <br />
