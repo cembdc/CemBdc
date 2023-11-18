@@ -19,7 +19,11 @@
     ⚡ Couchbase
     ⚡ InfluxDB
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,dynamodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,grafana,jenkins,prometheus)](https://skillicons.dev)
 
 ### Connect with me:
 
